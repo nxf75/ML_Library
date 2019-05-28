@@ -567,22 +567,22 @@
       - 理论
       - 调参
 
-    - ### GBDT
+    - #### GBDT
 
         - 理论
         - 调参
 
-    - ### XGBoost
+    - #### XGBoost
 
         - 理论
         - 调参
 
-    - ### LightGBM
+    - #### LightGBM
 
         - 理论
         - 调参
 
-    - ### CatBoost
+    - #### CatBoost
 
         - 理论
         - 调参
