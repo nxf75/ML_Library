@@ -7,7 +7,7 @@
 **弱模型的权重集合**
 得到的每个弱模型都对应一个权重。精度越高(分类问题的错分率越低，回归问题的错误率越低)的模型，其权重也就越大，在最终集成结果时，其话语权也就越大。
 
-![img](https://img2018.cnblogs.com/blog/1252882/201906/1252882-20190614150801157-832111130.png)
+![adaboost流程图](https://github.com/nxf75/ML_Library/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/%E5%9B%9B.%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88/Adaboost/pic/Adaboost%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
  
 
